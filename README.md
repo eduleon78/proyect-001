@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eduleon78
 - 👀 I’m interested in <- Javascript - Typescript ->
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on my own project
 - 📫 How to reach me edueleon78@gmail.com, twitter, @leon_studios_devs
 
